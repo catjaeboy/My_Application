@@ -61,3 +61,6 @@ Este projeto utiliza a API gratuita **OpenWeatherMap** para obter os dados de cl
 ### 📝 Licença
 
 Este projeto foi desenvolvido para fins didáticos e pode ser usado livremente como material de estudo e portfólio acadêmico.
+![Screenshot_20250928_204609_My Application](https://github.com/user-attachments/assets/0fcae5b2-91ae-4e23-b5fc-83c0b8399819)
+![Screenshot_20250928_204621_My Application](https://github.com/user-attachments/assets/4204d034-1255-42fd-9f71-dec6d1e2f714)
+![Screenshot_20250928_204626_My Application](https://github.com/user-attachments/assets/a0a0e578-c795-42b6-abdb-5af71dd6f062)
